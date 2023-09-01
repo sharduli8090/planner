@@ -1,0 +1,38 @@
+- ui for to do application
+https://dribbble.com/shots/4733113-Company-Dashboard
+
+- logic
+- feats
+add to do
+delete to do 
+update to do
+see list of to dos for a day
+one can add todo individually per day
+to do can be viewed day wise
+we can add to do day wise
+checkbox color changer if todo all done
+display list of dates for which to do is added 
+give color gradient depending upon the todos completed
+like a planner
+use mongodb database
+dark theme using redux
+header button to display thr dark light theme
+
+toggle menu - display month wise
+- display day wise
+- display year wise
+- dashboard - display stats - display charts according to platform engagement
+- acc to year engagement
+- day engagement busy day more if more todos
+- monthly same as day
+- button to display all toodos acc to month day year
+- numbers to diaplay total todos added on the platform till now
+- numbers to diaplay total engagement in platform till now
+
+
+
+mongodb with react frontend backend
+https://www.geeksforgeeks.org/how-to-connect-mongodb-with-reactjs/
+
+backend boiler plate
+https://github.com/mohsinyaqoob/tracsess-api
